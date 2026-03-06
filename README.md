@@ -1,21 +1,13 @@
 # Data Analytics Practice
 
-This repository contains exercises and practice projects developed during my Data Analytics training.
+This repository contains SQL practice exercises focused on:
 
-## Contents
+- Joins
+- Subqueries
+- Aggregations
+- Data analysis queries
 
-### SQL
-Practice queries including:
-- joins
-- aggregations
-- window functions
-- subqueries
-
-### Python
-Data analysis exercises using:
-- pandas
-- matplotlib
-- seaborn
+Dataset: Library management system
 
 ### Power BI
 Practice dashboards and data visualization exercises.
