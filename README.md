@@ -28,12 +28,6 @@ The exercises use a **library management database** with the following tables:
 3. Find books with more copies than the average of their category.
 4. Find the book that generated the highest total amount of fines.
 
-## Technologies
-
-* SQL
-* Git
-* GitHub
-
 ## Purpose
 
 This repository is part of my learning path toward becoming a **Data Analyst / BI Analyst**.
